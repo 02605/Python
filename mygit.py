@@ -1,4 +1,5 @@
 print("hello git.....")
 print("second commit.....")
 
-ptint("does github work ?")
+print("does github work ?")
+print("seam work...")
